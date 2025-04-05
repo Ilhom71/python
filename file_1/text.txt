@@ -1,0 +1,6 @@
+men bugun fayllar bilan ishladim
+1.file open 
+2.file read
+3.file close
+4.with open file
+va yana boshqalar  
